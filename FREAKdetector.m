@@ -8,6 +8,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
+
 % function [features, valid_corners, bw] = FREAKdetector(I)
 %
 % This function takes in an image matrix of an rgb or grayscale image and 
